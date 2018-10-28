@@ -1,2 +1,7 @@
-# code-to-art-assignment
-Assignment  
+The movie db Example
+
+Built With
+Retrofit
+Glide
+Gson
+smarteist:autoimageslider
