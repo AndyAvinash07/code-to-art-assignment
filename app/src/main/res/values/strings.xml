@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CodeToArtTest</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="information">Information</string>
+    <string name="something_went_wrong">something went wrong please try again!!</string>
+    <string name="ineternet_connection_message">please check your internet connection and try again</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="develop_by_avinash_sharma">Develop by Avinash sharma</string>
+</resources>
